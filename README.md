@@ -29,11 +29,11 @@ h0p3s_runaway/\
 │     ├── sprites\
 │     ├── tiles\
 ├──boards/\
-game.js
-GDD_h0p3s_runaway.pdf
-index.html
-particle.js
-style.css
+game.js\
+GDD_h0p3s_runaway.pdf\
+index.html\
+particle.js\
+style.css\
 
 
 
