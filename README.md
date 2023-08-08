@@ -3,7 +3,7 @@ h0p3 is a little robot trying to escape from a series a cages build by aliens th
 
 Go, go, h0p3!
 
-<img align="center" width="400" height="400" src="h0P3s_runaway/assets/imgs.hopes1.png">
+<img align="center" width="400" height="400" src="h0P3s_runaway/assets/imgs/hopes1.png">
 
 
 
