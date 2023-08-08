@@ -33,7 +33,7 @@ game.js\
 GDD_h0p3s_runaway.pdf\
 index.html\
 particle.js\
-style.css\
+style.css
 
 
 
