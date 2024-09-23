@@ -28,14 +28,6 @@ Go, go, h0p3!
   
 ---
 
-## Images
-<p align="center">
-  
-</p>
-
-
----
-
 ## Note
 
 Clone the repository.
