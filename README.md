@@ -41,10 +41,10 @@ Go, go, h0p3!
 Clone the repository.
 Run it on Visual Studio Code.
 
-# npm install
-# npm start
-# npm run build
-# npm test
+### npm install
+### npm start
+### npm run build
+### npm test
 
 
 ---
